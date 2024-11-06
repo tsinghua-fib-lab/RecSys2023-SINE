@@ -20,6 +20,8 @@ Understanding and Modeling Passive-Negative Feedback for Short-video Sequential 
 
 Download from [WeChat-Big-Data-Challenge-2021](https://github.com/WeChat-Big-Data-Challenge-2021/WeChat_Big_Data_Challenge).
 
+Due to data privacy issues, please contact chgao96@tsinghua.edu.cn for the processed data.
+
 ## Model Training
 
 Simply run the following command to reproduce the experiments on corresponding dataset and model:
